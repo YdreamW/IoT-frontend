@@ -92,19 +92,19 @@ npm run start
 
 ### 1、首页(dashboard)： 数据统计与可视化
 
-![image-20210630223116290](https://YdreamW.github.io/Images/BS/image-20210630223116290.png)
+![image-20210630223116290](./images_report/image-20210630223116290.png)
 
 其中面积图与折线图下方，可以通过拖动滚动条来选择数据的起止时间
 
 ### 2、设备(device)： 设备统计页
 
-![image-20210630223158742](https://YdreamW.github.io/Images/BS/image-20210630223158742.png)
+![image-20210630223158742](./images_report/image-20210630223158742.png)
 
 上方搜索栏中可以输入设备ID或者设备名称或者两者都输入来进行搜索。
 
 右侧三个按钮分别可以刷新列表、修改表格密度，修改需要展示的列
 
-![image-20210630223343336](https://YdreamW.github.io/Images/BS/image-20210630223343336.png)
+![image-20210630223343336](./images_report/image-20210630223343336.png)
 
 每一行表示一个设备，最右边的操作来修改设备名称，在项目中<font color='red'>设备ID作为唯一标识符，因此不可修改</font>。而增加设备我认为应当由client来完成，<font color='red'>后台管理系统不应当具备增加真实存在的终端的功能</font>
 
@@ -112,7 +112,7 @@ npm run start
 
 ### 3、信息(message)： 信息统计页
 
-![image-20210630223418354](https://YdreamW.github.io/Images/BS/image-20210630223418354.png)
+![image-20210630223418354](./images_report/image-20210630223418354.png)
 
 对消息数据的呈现。
 
@@ -120,7 +120,7 @@ npm run start
 
 ### 4、地图(map) ： 地图展现界面
 
-![image-20210630223736789](https://YdreamW.github.io/Images/BS/image-20210630223736789.png)
+![image-20210630223736789](./images_report/image-20210630223736789.png)
 
 图中红色标记表示设备告警，绿色标记表示设备正常。
 
@@ -128,6 +128,6 @@ npm run start
 
 ### 5、UI适配手机端
 
-![image-20210630224010501](https://YdreamW.github.io/Images/BS/image-20210630224010501.png)
+![image-20210630224010501](./images_report/image-20210630224010501.png)
 
-![image-20210630224027132](https://YdreamW.github.io/Images/BS/image-20210630224027132.png)
+![image-20210630224027132](./images_report/image-20210630224027132.png)
