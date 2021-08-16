@@ -54,7 +54,7 @@ npm run dev
 
 应用默认在7001端口运行。运行开始后，终端会给出反馈信息，请关注一下其端口号
 
-![image-20210630221429072](https://YdreamW.github.io/Images/BS/image-20210630221429072.png)
+![image-20210630221429072](./images_report/image-20210630221429072.png)
 
 如上图，由于7001端口被占用，应用监听了7002端口。<font color='red'>我们需要在前端修改代理规则</font>
 
